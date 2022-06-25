@@ -8,7 +8,7 @@ Curso do Bootcamp Spread Fullstack Developer [Digital Innovation One][DigitalInn
 
 <img src="./img/badge-curso.png" title="Badge" width="70" height="70">
 
-Neste projeto recriamos a página de login do Instagram, apliquei os conhecimentos adquiridos  de HTML, CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade
+Neste projeto recriamos a página de login do Instagram, apliquei os conhecimentos adquiridos  de HTML, CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
 
 
 
@@ -16,7 +16,7 @@ ____
 
 - <a href="https://instagram-login-page-ten.vercel.app/">Projeto Desenvolvido:</a>
 
-<img align="center" alt="Página de login do instagram" src="./img/INSTAGRAM.png">
+<img align="center" alt="Página de login do instagram" src="./img/INSTAGRAM.PNG">
 
 
 
