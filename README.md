@@ -16,9 +16,11 @@ ____
 
 - Projeto Desenvolvido:
 
+<img align="center" alt="Página de login do instagram" src="./img/INSTAGRAM.png">
 
 
-![Projeto](./img/INSTAGRAM.PNG"Página Inicial do Instagram")
+
+
 
 
 
@@ -27,8 +29,6 @@ ____
 - <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">[HTML](https://www.w3schools.com/html/)
 - <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-
-
-### Orientado pela expert:
+#### Orientado pela expert:
 
 Gabriela Spruce
